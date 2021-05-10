@@ -26,7 +26,7 @@ Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo
   
 ## Firebase
   Il sito Google Firebase offre la possibilità di creare un database dinamico utilizzando il lingaggio JavaScript. 
-  Per iniziare recarsi sul sito [Google firebase] (https://firebase.google.com/) e iscriversi se non lo si è già stato fatto in precedenza. 
+  Per iniziare recarsi sul sito [Google firebase](https://firebase.google.com/) e iscriversi se non lo si è già stato fatto in precedenza. 
   Appena l'utente si è iscritto seguire i seguenti passaggi:
    
    1. Andare su console
