@@ -22,6 +22,7 @@ Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo
      - nome utente
      - password
      - Porta default
+  3. Per vedere/caricare i file nel nostro server andare su ` /var/www/html `
   
   Infine per vedere il nostro sito possiamo andare su google e scrivere il nostro indirizzo IP SCREEN (se vuoi)
   
