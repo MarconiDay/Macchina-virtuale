@@ -23,5 +23,24 @@ Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo
      - Porta default
   
   Infine per vedere il nostro sito possiamo andare su google e scrivere il nostro indirizzo IP
- ### Collegare file 
+  
 ## Firebase
+  Il sito Google Firebase offre la possibilità di creare un database dinamico utilizzando il lingaggio JavaScript. 
+  Per iniziare recarsi sul sito [Google firebase] (https://firebase.google.com/) e iscriversi se non lo si è già stato fatto in precedenza. 
+  Appena l'utente si è iscritto seguire i seguenti passaggi:
+    1. Andare su console
+    2. Cliccare aggungi progettAndao
+    3. Disattivare Google analytics
+    4. Cliccare conferma
+    5. Se è stato fatto tutto correttamente andare su
+    6. Realtime database
+    7. Secgliere Belgio
+    8. Avviare in modalità e blocco e confermare
+   
+   Per collegarsi al database tramite sito web seguire i seguenti passaggi:
+    1. Andare su panoramica progetto
+    2. Scegliere la seguente icona
+    3. Non mettere la spunta su Firebase Hosting
+    4. premere registra
+    5. copiare il codice mostrato e incollarlo sul file
+    6. Infine premere vai alla console
