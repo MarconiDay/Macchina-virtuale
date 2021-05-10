@@ -42,6 +42,6 @@ Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo
    1. Andare su panoramica progetto
    2. Scegliere la seguente icona
    3. Non mettere la spunta su Firebase Hosting
-   4. premere registra
-   5. copiare il codice mostrato e incollarlo sul file
+   4. Premere registra
+   5. Copiare il codice mostrato e incollarlo sul file dove desideriamo fare il collegamento
    6. Infine premere vai alla console
