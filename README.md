@@ -6,19 +6,23 @@
   1. Recarsi nella sezione "computer engine"
   2. Andare su "istanza VM" e creare il progetto 
   3. Inserire le caratteristiche desiderate:
+  
+  <br/><br/>
   <img align="center" src="http://34.107.20.99/assets/Readme/nome.png"/>
-    
+  <br/>  
    - CPU
    - Sistema operativo
    - Memoria
    - Spuntare "consenti traffico HTTP"
   
-  
+  <br/><br/>
   <img align="center" src="http://34.107.20.99/assets/Readme/firewall.png"/>
+  <br/>
   5.  La creazione della macchina virtuale è stata conclusa
  ### Collegamento tramite SSH
   1. Scaricare [PUTTY](https://www.putty.org/)
   2. Inserire IP della macchina (visibile da Google Cloud nella sezione IP esterno), la porta è quella di default 
+  <br/><br/>
   <img align="center" src="http://34.107.20.99/assets/Readme/ip.png"/>
 
 ### Collegamento SFTP
@@ -28,8 +32,9 @@ Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo
      - nome utente
      - password
      - Porta default
-     
-     <img align="center" src="http://34.107.20.99/assets/Readme/fz.png"/>
+ <br/><br/>    
+ <img align="center" src="http://34.107.20.99/assets/Readme/fz.png"/>
+ <br/>
   3. Per vedere/caricare i file nel nostro server andare su ` /var/www/html `
   
   Infine per vedere il nostro sito possiamo andare su google e scrivere il nostro indirizzo IP
