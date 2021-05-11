@@ -19,15 +19,19 @@
   <img align="center" src="http://34.107.20.99/assets/Readme/firewall.png"/>
   <br/>
   
-  5.  La creazione della macchina virtuale è stata conclusa
+  -  La creazione della macchina virtuale è stata conclusa
  ### Collegamento tramite SSH
   1. Scaricare [PUTTY](https://www.putty.org/)
   2. Inserire IP della macchina (visibile da Google Cloud nella sezione IP esterno), la porta è quella di default 
   <br/><br/>
   <img align="center" src="http://34.107.20.99/assets/Readme/ip.png"/>
   <br/>
-### Collegamento SFTP
-Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo a creare le dovremmo successsivamente inserire su FileZilla. Dopo averlo scaricato:
+
+
+   ### Collegamento SFTP
+
+  Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo a creare le dovremmo successsivamente inserire su FileZilla. Dopo averlo scaricato:
+  
   1. Scaricare [FileZilla](https://filezilla-project.org/) (ci serve per il trasferimento dei file)
   2. Inserire indirizzo IP e i seguenti dati:
      - nome utente
