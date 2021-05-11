@@ -58,11 +58,12 @@
    7. Secgliere Belgio 
    8. Avviare in modalità e blocco e confermare
    
+   
    Per collegarsi al database tramite sito web seguire i seguenti passaggi:
    
-   1. Andare su panoramica progetto
-   2. Scegliere la seguente icona
-   3. Non mettere la spunta su Firebase Hosting
-   4. Premere registra
-   5. Copiare il codice mostrato e incollarlo sul file dove desideriamo fare il collegamento
-   6. Infine premere vai alla console
+  1. Andare su panoramica progetto
+  2. Scegliere la seguente icona
+  3. Non mettere la spunta su Firebase Hosting
+  4. Premere registra
+  5. Copiare il codice mostrato e incollarlo sul file dove desideriamo fare il collegamento
+  6. Infine premere vai alla console
