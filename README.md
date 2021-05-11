@@ -7,10 +7,13 @@
   2. Andare su "istanza VM" e creare il progetto 
   3. Inserire le caratteristiche desiderate:
   <img align="center" src="http://34.107.20.99/assets/Readme/nome.png"/>
-     - CPU
-     - Sistema operativo
-     - Memoria
-     - Spuntare "consenti traffico HTTP"
+    
+   - CPU
+   - Sistema operativo
+   - Memoria
+   - Spuntare "consenti traffico HTTP"
+  
+  
   <img align="center" src="http://34.107.20.99/assets/Readme/firewall.png"/>
   5.  La creazione della macchina virtuale è stata conclusa
  ### Collegamento tramite SSH
