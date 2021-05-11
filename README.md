@@ -55,6 +55,7 @@ Tramite macchina virtuale installare il servizio FTP. Le credenziali che andiamo
    8. Avviare in modalità e blocco e confermare
    
    Per collegarsi al database tramite sito web seguire i seguenti passaggi:
+   
    1. Andare su panoramica progetto
    2. Scegliere la seguente icona
    3. Non mettere la spunta su Firebase Hosting
